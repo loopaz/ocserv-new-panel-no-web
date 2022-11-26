@@ -1,4 +1,4 @@
-# ocserv-new-panel-not-web-
+# ocserv-new-panel-not-web
 ocserv panel (addal &amp; Toyo)
 
 For download & run
