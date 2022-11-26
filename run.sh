@@ -400,7 +400,7 @@ Show_connecting_users(){
 }
 Abdal-OCSERV-MGR(){
     clear
-    ./Abdal-OCSERV-MGR/abdal-ocserv-mgr.sh
+    /Abdal-OCSERV-MGR/abdal-ocserv-mgr.sh
     clear
     ./run.sh
 }
